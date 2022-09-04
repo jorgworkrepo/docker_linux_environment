@@ -1,4 +1,4 @@
 # Linux environment
 
 
-3 semster network week. Linux environment to practice linux commnads
+3 semester network week. Linux's environment to practice linux commands
