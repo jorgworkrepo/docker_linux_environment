@@ -28,6 +28,7 @@ ENV LANG=C.UTF-8
 COPY ./hugefile /exercises/hugefil
 COPY ./myfile.zip /exercises/myfile.zip
 COPY ./grep.txt /exercises/grep.txt
+COPY ./firstbashscript.sh /exercises/firstbashscript.sh
 
 
 

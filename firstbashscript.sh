@@ -4,9 +4,7 @@
 
 # 2. add text to the file
 
-
 # 3. print file to the console
-
 
 # 4. create e folder. Make a check if folder exist
 
