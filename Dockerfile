@@ -25,5 +25,9 @@ RUN set -x && apt-get update && \
 # set LANG=*.UTF-8 so that default file encoding will be UTF-8, otherwise any non-ASCII files may have trouble.
 ENV LANG=C.UTF-8
 
-COPY ./hugefile /textfile/hugefile
+COPY ./hugefile /exercises/hugefil
+COPY ./myfile.zip /exercises/myfile.zip
+
+
+
 
